@@ -10,7 +10,7 @@ namespace Students
     {
         static void Main(string[] args)
         {
-            Student st1 = new Student("a", "a", "a");
+            Student st1 = new Student("aaaaaaaaaa", "a", "a");
             Student st2 = new Student("b", "b", "b");
             Student st3 = new Student("c", "c", "c");
             Student st4 = new Student("d", "d", "d");
