@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Students//1
+namespace Students//2
 {
-    class Program//upper must be test
+    //HAHAH
+    class Program
     {
         static void Main(string[] args)
         {
