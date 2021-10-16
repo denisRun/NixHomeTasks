@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Students//master change
+namespace Students//1
 {
     class Program//upper must be test
     {
