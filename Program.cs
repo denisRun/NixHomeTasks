@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Students
+namespace Students//master change
 {
-    class Program
+    class Program//upper must be test
     {
         static void Main(string[] args)
         {
