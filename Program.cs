@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Students//test Branch 
 {
-    class Program
+    class Program//upper must be test
     {
         static void Main(string[] args)
         {
